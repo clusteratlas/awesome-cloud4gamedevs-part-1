@@ -12,7 +12,7 @@ This is the part one of our cloud series.
 
 - [ ] What is The Cloud
 - [ ] Cloud Myths Busted
-- [ ] What is Cloud for **you** as a Game Dev
+- [ ] What is Cloud for **YOU** as a Game Dev
 - [ ] Basic Concepts
 - [ ] Basic Cloud Concepts
 - [ ] Cloud Providers & Their Services
