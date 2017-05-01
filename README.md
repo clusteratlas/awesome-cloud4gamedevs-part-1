@@ -1,22 +1,56 @@
+# Cloud For Game Developers - Introductory
+
 ## Welcome!
 
-This is the part one of our cloud series.
-
-## Cloud for Game Devs Series
-
-- [ ] Part One
-- [ ] Part Two
-- [ ] Part One
+> **This is Part One of our Cloud For Game Developers series.**
 
 ## Table Of Contents
-
-- [ ] What is The Cloud
+- [ ] What Is The Cloud
 - [ ] Cloud Myths Busted
-- [ ] What is Cloud for **YOU** as a Game Dev
-- [ ] Basic Concepts
-- [ ] Basic Cloud Concepts
-- [ ] Cloud Providers & Their Services
-- [ ] Signing Up for The Cloud
+- [ ] What Is Cloud For **YOU** As A Game Dev
+- [ ] Things To Consider, Before Using The Cloud
+  - [ ] First Things First, Do You Need It?
+  - [ ] Identifying Your Game Type
+  - [ ] Your Programming Language
+  - [ ] Your Target Platforms
+  - [ ] Local Area Network (LAN) Games
+  - [ ] Over-The-Internet Games
+  - [ ] Things That Matter
+  
+## What Is *Cloud Computing* a.k.a. *The Cloud* ?
+
+<p align="center">
+  <img src="http://i.imgur.com/iZ5Yg99.jpg" alt="awesome">
+</p>
+
+Cloud Computing is the general term used for delivering computer services over the Internet. 
+
+The basic idea is that you are renting / leasing servers, storage, and networking infrastructures from major companies like Microsoft, Amazon & Google. Hence we use the terms 'The Cloud', 'Cloud Computing', or 'Virtualized Environment', because the whole amazing fiasco allows you to utilize these resources without actually touching them. <sup>[@ Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Drafts/Understanding_Cloud_architectures), [@ Reddit](https://www.reddit.com/r/explainlikeimfive/comments/j62ec/eli5_cloud_computing_andor_the_cloud/)</sup>
+
+## Cloud Myths Busted
+
+### Myth # 1: Using The Cloud *IS EXPENSIVE*
+
+> No, because if you weigh the advantages and the plethora of features you get from using the cloud, compared to using Bare-Metal / VPS / Dedicated Servers setups, you'll realize you're actually winning. High scalability, networking & dns-level configurability, multiple regions available for your deployments, database & cache services right at your fingertips, and hell a bunch more.. - beat that!
+
+> No, because in the cloud there are No Upfront Costs, and you are only charged by the minutes & the hours you consume their resources. This means you can switch them off (or de-allocate these resources) them whenever you're sleeping, or feel like it, then you can just switch them on (or re-allocate them) at any point in the future - and they will only charge you again at that moment!
+
+> No, because you can set spending limits. These cloud providers allow you to set an allotted budget on their platforms in order for you to avoid over-spending. If you set $25, $50, $150 or even $1,000 per month, they respect it and will never exceed it!
+
+> No, because these cloud providers even give you free damn credits & resources the moment you signed up! A year of around $300 credits from Azure, AWS & Google Cloud plus a bunch of free-tier features for you to use - you aren't out of your mind to think that you are losing, aren't ya?!
+
+> TL;DR: Yes the cloud will be expensive for you if you're careless, and you don't read them manuals & documentations on how to use them in a cost-efficient manner. This series right here aims to teach you that, so calm down and let's move to the next myth.
+
+### Myth # 2: Using The Cloud *IS COMPLICATED AS F\*CK*
+
+> TL;DR: Again, it isn't.
+
+## Summary
+
+- 'The Cloud' is simply all about renting servers, storage & networking infrastrucures online.
+- Microsoft Azure, Google Cloud Platform & Amazon Web Services are currently the Top 3 Cloud Providers.
+- Using their online platforms, you can host Windows & Linux servers on them.
+- These server instances called 'Virtual Machines' can be exposed, or be made reachable in the internet by assigning **Public IP Addresses** on them, and furthermore **opening ports** on them.
 
 ## License
 
