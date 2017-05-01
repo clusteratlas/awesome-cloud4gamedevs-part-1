@@ -37,7 +37,9 @@ The basic idea is that you are renting / leasing servers, storage, and networkin
 
 ### The Cloud is intended not only for developers; but most importantly for end-users, too.
 
-> As a Game Developer, the best solutions come out when you're putting your end-users first - end-users which are your players. It works wonders when you're asking yourself:
+> As a Game Developer, the best solutions come out when you're putting your end-users first, which are your players.
+
+> It works wonders when you're asking yourself:
 
 - Which of these things can help me reduce the lag and/or the latency?
 - Which of these things can help me provide players in another continent a better gaming experience?
@@ -47,6 +49,13 @@ The basic idea is that you are renting / leasing servers, storage, and networkin
 ### The Cloud is just another tool, in your set of tools.
 
 > The Cloud isn't a be-all end-all type of thing that can solve all of your game-dev problems.
+
+- What other things can I put more effort for us to increase our following?
+- Maybe more work in GFX?
+- Maybe more work in SFX/Music?
+- Maybe more work in overall [gameplay](https://en.wikipedia.org/wiki/Gameplay), [game mechanics](https://en.wikipedia.org/wiki/Game_mechanics) & [game design](https://en.wikipedia.org/wiki/Game_design)?
+- Maybe more work in compatibility with other platforms?
+- Maybe more frequent developer-to-player updates in social media?
 
 ### The Cloud is meant to save you headaches.
 
