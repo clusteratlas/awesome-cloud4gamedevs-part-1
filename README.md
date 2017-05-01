@@ -33,39 +33,53 @@ The basic idea is that you are renting / leasing servers, storage, and networkin
 
 ---
 
-## What Is The Cloud For **YOU** As A Game Dev
+## What Is **The Cloud** For **YOU** As A Game Developer
 
-### The Cloud is intended not only for developers; but most importantly for end-users, too.
+### It's meant to work with you.
 
-As a Game Developer, the best solutions come out when you're putting your end-users first, which are your players.
+As a Game Developer, you want the Cloud to initially work in your favour first:
 
-It works wonders when you're asking yourself:
+- It should provide you more cost-efficiency when it comes to consuming resources.
+- It should provide you ease & comfort in your development & deployment processes.
+- It should save you from a lot of infrastructure-related headaches, allowing you to focus more on your game rather than building & configuring infrastructures.
+
+And luckily, Cloud Providers like Microsoft Azure, Amazon Web Services (AWS) & Google Cloud Platform (GCP) are committed to that.
+
+### It's intended initially for developers; but most importantly for end-users, too.
+
+It is granted. Modern cloud technologies are designed to speed-up & take away the hassles in our development & deployment processes. As a Game Developer however, the best solutions that garner the best results when you're putting your end-users first, which are your players.
+
+It works wonders when you're approaching these Cloud Technologies while asking yourself:
 
 - Which of these things can help me reduce the lag and/or the latency?
 - Which of these things can help me provide players in another continent a better gaming experience?
 - Which of these things can help me in handling large amount of player data?
+- Which of these things can help me process large amount of incoming & outgoing data when I encounter massive player traffic?
+- Which of these things can help me do game analytics without affecting their gaming experience?
+- Which of these things can provide me a failover solution during bad times, like unwanter server crashes and such?
 - Finally, which of these things can help me in implementing all of these things without breaking the bank?
 
-### The Cloud is just another tool, in your set of tools.
+### It's just another tool, in your awesome set of tools.
 
 The Cloud isn't a be-all end-all type of thing that can solve all of your game-dev problems.
 
 - What other things can I put more effort for us to improve the gaming experience?
-- Maybe more work in GFX?
-- Maybe more work in SFX/Music?
+- Maybe more work in GFX & Animation?
+- Maybe more work in SFX / Music?
 - Maybe more work in overall [gameplay](https://en.wikipedia.org/wiki/Gameplay), [game mechanics](https://en.wikipedia.org/wiki/Game_mechanics) & [game design](https://en.wikipedia.org/wiki/Game_design)?
 - Maybe more work in compatibility with other platforms?
-- Maybe more frequent developer-to-player updates in social media?
+- Maybe more frequent developer-to-player updates, and showcasing of your game in social media?
 
-### The Cloud is meant to save you headaches.
+You should never lose sight of all these front-end part of things while you work on your back-end!
 
-Cost-wise 
+### Finally, it's useless if you ain't got no players.
 
-### The Cloud is useless if you ain't got no players.
+You can say that it's like a *which-comes-first-chicken-or-egg* scenario.
 
-Caveat: If you're experimenting on cloud technologies and you're looking to see how it can help you, go on! You're doing good!
+- A game that is not well-thought and just overall sucks will still suck, even if you plug-in cloud technologies with it.
+- A game that is well-thought,  almost-works and looks-promising however might be turned into the greatest when mixed with cloud technologies.
 
-But nevertheless, 
+Caveat: If you're experimenting on cloud technologies and you're looking to see how it can help you, go on! Yes you should proceed, and yes you should explore!
 
 ---
 
@@ -130,6 +144,10 @@ If you see learning and using the cloud resulting into an overall improvement & 
 - Microsoft Azure, Google Cloud Platform & Amazon Web Services are currently the Top 3 Cloud Providers.
 - Using their online platforms, you can host Windows & Linux servers on them.
 - These server instances called 'Virtual Machines' can be exposed, or be made reachable in the internet by assigning **Public IP Addresses** on them, and furthermore **opening ports** on them.
+
+---
+
+
 
 ---
 
