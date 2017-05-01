@@ -24,7 +24,7 @@
 ## What Is Cloud Computing a.k.a. The Cloud?
 
 <p align="center">
-  <img src="http://i.imgur.com/iZ5Yg99.jpg" alt="awesome">
+  <img src="http://i.imgur.com/iZ5Yg99.jpg" alt="img">
 </p>
 
 Cloud Computing is the general term used for delivering computer services over the Internet. 
@@ -34,6 +34,10 @@ The basic idea is that you are renting / leasing servers, storage, and networkin
 ---
 
 ## What Is It For **YOU** As A Game Developer
+
+<p align="center">
+  <img src="http://i.imgur.com/3irpKsP.gif" alt="img">
+</p>
 
 ### It's meant to work with you.
 
@@ -85,6 +89,10 @@ Caveat: If you're experimenting on cloud technologies and you're looking to see 
 
 ## Cloud Myths Busted
 
+<p align="center">
+  <img src="http://i.imgur.com/pmbQaul.gif" alt="img">
+</p>
+
 ### Myth # 1: Using The Cloud IS EXPENSIVE
 
 No, because if you weigh the advantages and the plethora of features you get from using the cloud, compared to using Bare-Metal / VPS / Dedicated Servers setups, you'll realize you're actually winning. High scalability, networking & dns-level configurability, multiple regions available for your deployments, database & cache services right at your fingertips, and hell a bunch more.. - beat that!
@@ -107,6 +115,10 @@ TL;DR: Just focus on the things that will be useful to you, and in no way should
 
 ## Things To Consider Before Using The Cloud
 
+<p align="center">
+  <img src="http://i.imgur.com/lYGSKul.gif" alt="img">
+</p>
+
 ### First Things First, Do You Need It?
 
 It's a waste of time learning its ins & outs if you initially don't need it, correct?
@@ -116,7 +128,7 @@ Hereunder is an overview of mostly-used Cloud Technologies, and their use-cases.
 | Cloud Technology | Description | Use-Cases |
 | ------------- | ------------- | ------------- |
 | **File Storage** | Host gigabytes to terabytes of files | Hosting patches, updates, small & large files, etc. |
-| **Queues** | Durable queues for large-volume cloud services | Processing global events, messaages, etc. |
+| **Queues** | Durable queues for large-volume cloud services | Processing global events, messages, etc. |
 | **File Shares** | Simple, distributed, cross-platform file storage | As a shared file-system |
 |  |  | Between your server instances |
 |  |  | Or w/ your on-premises workstation (ie: local Windows 10/Linux) |
@@ -124,8 +136,8 @@ Hereunder is an overview of mostly-used Cloud Technologies, and their use-cases.
 | **Virtual Machines** | Create Linux and Windows virtual machines in seconds | Host your game's server-side code |
 |  |  | Host your game's static website |
 |  |  | Host your game's online platform |
-| **Virtual Machine Auto-Scaling** | Vertical / Horizontal scaling for High-Availability | increase / decrease # of Cores, RAM & Network Bandwidth |
-|  |  | create / spin-up another server instance with the same specs on high player traffic |
+| **Virtual Machine Auto-Scaling** | Vertical / Horizontal scaling for High-Availability | Increase / decrease # of Cores, RAM & Network Bandwidth |
+|  |  | Create / spin-up another server instance with the same specs on high player traffic |
 | **Cloud Delivery Networks** | Secure, reliable content delivery with broad global reach | Better global file / asset delivery |
 |  |  | Speeding up your static websites & online platforms |
 | **Virtual Networks** | Isolated & highly-secure environment for your virtual machines | Inter-connectivity between server instances |
