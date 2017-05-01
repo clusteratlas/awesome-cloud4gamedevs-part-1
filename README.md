@@ -8,8 +8,8 @@
 
 ## Table Of Contents
 - [x] What Is The Cloud
+- [x] What Is It For **YOU** As A Game Developer
 - [x] Cloud Myths Busted
-- [ ] What Is The Cloud For **YOU** As A Game Dev
 - [ ] Things To Consider Before Using The Cloud
   - [ ] First Things First, Do You Need It?
   - [ ] Identifying Your Game Type
@@ -33,7 +33,7 @@ The basic idea is that you are renting / leasing servers, storage, and networkin
 
 ---
 
-## What Is **The Cloud** For **YOU** As A Game Developer
+## What Is It For **YOU** As A Game Developer
 
 ### It's meant to work with you.
 
@@ -144,10 +144,6 @@ If you see learning and using the cloud resulting into an overall improvement & 
 - Microsoft Azure, Google Cloud Platform & Amazon Web Services are currently the Top 3 Cloud Providers.
 - Using their online platforms, you can host Windows & Linux servers on them.
 - These server instances called 'Virtual Machines' can be exposed, or be made reachable in the internet by assigning **Public IP Addresses** on them, and furthermore **opening ports** on them.
-
----
-
-
 
 ---
 
