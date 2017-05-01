@@ -4,6 +4,8 @@
 
 > **This is Part One of our Cloud For Game Developers series.**
 
+---
+
 ## Table Of Contents
 - [x] What Is The Cloud
 - [x] Cloud Myths Busted
@@ -16,7 +18,9 @@
   - [ ] Local Area Network (LAN) Games
   - [ ] Over-The-Internet Games
   - [ ] Things That Matter
-  
+
+---
+
 ## What Is Cloud Computing a.k.a. The Cloud?
 
 <p align="center">
@@ -76,7 +80,7 @@ Cost-wise
 
 > TL;DR: Just focus on the things that will be useful to you, and in no way should things get complicated.
 
---
+---
 
 ## Summary
 
@@ -84,6 +88,8 @@ Cost-wise
 - Microsoft Azure, Google Cloud Platform & Amazon Web Services are currently the Top 3 Cloud Providers.
 - Using their online platforms, you can host Windows & Linux servers on them.
 - These server instances called 'Virtual Machines' can be exposed, or be made reachable in the internet by assigning **Public IP Addresses** on them, and furthermore **opening ports** on them.
+
+---
 
 ## License
 
