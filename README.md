@@ -29,7 +29,7 @@
 
 Cloud Computing is the general term used for delivering computer services over the Internet. 
 
-The basic idea is that you are renting / leasing servers, storage, and networking infrastructures from major companies like Microsoft, Amazon & Google. Hence we use the terms 'The Cloud', 'Cloud Computing', or 'Virtualized Environment', because the whole amazing fiasco allows you to utilize these resources without actually touching them. <sup>[@ Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Drafts/Understanding_Cloud_architectures), [@ Reddit](https://www.reddit.com/r/explainlikeimfive/comments/j62ec/eli5_cloud_computing_andor_the_cloud/)</sup>
+The basic idea is that you are renting / leasing servers, storage, and networking infrastructures from major companies like Microsoft, Amazon & Google. Hence we use the terms 'The Cloud', or 'Cloud Computing' because you get to utilize these highly-available resources without actually touching them (or more accurately: managing them hands-on). <sup>[Explained @ Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Drafts/Understanding_Cloud_architectures), [Explained @ Reddit](https://www.reddit.com/r/explainlikeimfive/comments/j62ec/eli5_cloud_computing_andor_the_cloud/)</sup>
 
 ---
 
