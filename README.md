@@ -138,13 +138,13 @@ Hereunder is an overview of mostly-used Cloud Technologies, and their use-cases.
 |  |  | Host your game's online platform |
 | **Virtual Machine Auto-Scaling** | Vertical / Horizontal scaling for High-Availability | Increase / decrease # of Cores, RAM & Network Bandwidth |
 |  |  | Create / spin-up another server instance with the same specs on high player traffic |
-| **Cloud Delivery Networks** | Secure, reliable content delivery with broad global reach | Better global file / asset delivery |
-|  |  | Speeding up your static websites & online platforms |
-| **Virtual Networks** | Isolated & highly-secure environment for your virtual machines | Inter-connectivity between server instances |
-| **Managed DNS** | DNS management w/ outstanding performance & availability | Quick updates to DNS records |
-|  |  | Easy domain & sub-domain management |
 | **Load Balancers** | Delivery of high availability & network performance. | Distributing massive player traffic into multiple server instances |
 |  |  | Automatic failover to healthy instances, in-case of a server instance failure |
+| **Virtual Networks** | Isolated & highly-secure environment for your virtual machines | Inter-connectivity between server instances |
+| **Cloud Delivery Networks** | Secure, reliable content delivery with broad global reach | Better global file / asset delivery |
+|  |  | Speeding up your static websites & online platforms |
+| **Managed DNS** | DNS management w/ outstanding performance & availability | Quick updates to DNS records |
+|  |  | Easy domain & sub-domain management |
 
 If you see any of these technologies working in your favour, then yes you need the cloud! And yes, proceeding with this series will definitely be helpful for you!
 
