@@ -143,15 +143,16 @@ Hereunder is an overview of mostly-used Cloud Technologies, and their use-cases.
 | **Virtual Networks** | Isolated & highly-secure environment for your virtual machines | Inter-connectivity between server instances |
 | **Managed DNS** | DNS management w/ outstanding performance & availability | Quick updates to DNS records |
 |  |  | Easy domain & sub-domain management |
+| **Load Balancers** | Delivery of high availability & network performance. | Distributing massive player traffic into multiple server instances |
+|  |  | Automatic failover to healthy instances, in-case of a server instance failure |
 
----
+If you see any of these technologies working in your favour, then yes! Learning the cloud will definitely be helpful for you!
 
-- Managed storage, tables, queues & file services
-- Server instances / virtual machines that easily scales vertically & horizontally
-- Highly-scalable database & cache services
-- Virtual networks & managed DNS
+### Identifying Your Game Type
 
-If you see learning and using the cloud resulting into an overall improvement & polishing of your game then definitely go for it!
+### Your Programming Language
+
+### Your Target Platforms
 
 ---
 
