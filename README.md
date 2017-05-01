@@ -5,7 +5,7 @@
 > **This is Part One of our Cloud For Game Developers series.**
 
 ## Table Of Contents
-- [ ] What Is The Cloud
+- [x] What Is The Cloud
 - [ ] Cloud Myths Busted
 - [ ] What Is Cloud For **YOU** As A Game Dev
 - [ ] Things To Consider, Before Using The Cloud
@@ -17,7 +17,7 @@
   - [ ] Over-The-Internet Games
   - [ ] Things That Matter
   
-## What Is *Cloud Computing* a.k.a. *The Cloud* ?
+## What Is Cloud Computing a.k.a. The Cloud?
 
 <p align="center">
   <img src="http://i.imgur.com/iZ5Yg99.jpg" alt="awesome">
@@ -29,7 +29,7 @@ The basic idea is that you are renting / leasing servers, storage, and networkin
 
 ## Cloud Myths Busted
 
-### Myth # 1: Using The Cloud *IS EXPENSIVE*
+### Myth # 1: *Using The Cloud IS EXPENSIVE*
 
 > No, because if you weigh the advantages and the plethora of features you get from using the cloud, compared to using Bare-Metal / VPS / Dedicated Servers setups, you'll realize you're actually winning. High scalability, networking & dns-level configurability, multiple regions available for your deployments, database & cache services right at your fingertips, and hell a bunch more.. - beat that!
 
@@ -41,9 +41,11 @@ The basic idea is that you are renting / leasing servers, storage, and networkin
 
 > TL;DR: Yes the cloud will be expensive for you if you're careless, and you don't read them manuals & documentations on how to use them in a cost-efficient manner. This series right here aims to teach you that, so calm down and let's move to the next myth.
 
-### Myth # 2: Using The Cloud *IS COMPLICATED AS F\*CK*
+### Myth # 2: *Using The Cloud IS COMPLICATED AS F\*CK*
 
-> TL;DR: Again, it isn't.
+> **No, since learning how the cloud can work for you doesn't mean you have to learn everything in the cloud.** That's the same reason on why there are guides like this, to simplify everything, to give you a concrete and concise idea of the certain things that only matters to you.
+
+> TL;DR: Just focus on the things that will be useful to you, and in no way should things get complicated.
 
 ## Summary
 
