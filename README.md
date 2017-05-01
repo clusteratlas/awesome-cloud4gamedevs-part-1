@@ -37,9 +37,9 @@ The basic idea is that you are renting / leasing servers, storage, and networkin
 
 ### The Cloud is intended not only for developers; but most importantly for end-users, too.
 
-> As a Game Developer, the best solutions come out when you're putting your end-users first, which are your players.
+As a Game Developer, the best solutions come out when you're putting your end-users first, which are your players.
 
-> It works wonders when you're asking yourself:
+It works wonders when you're asking yourself:
 
 - Which of these things can help me reduce the lag and/or the latency?
 - Which of these things can help me provide players in another continent a better gaming experience?
@@ -48,7 +48,7 @@ The basic idea is that you are renting / leasing servers, storage, and networkin
 
 ### The Cloud is just another tool, in your set of tools.
 
-> The Cloud isn't a be-all end-all type of thing that can solve all of your game-dev problems.
+The Cloud isn't a be-all end-all type of thing that can solve all of your game-dev problems.
 
 - What other things can I put more effort for us to increase our following?
 - Maybe more work in GFX?
@@ -63,31 +63,31 @@ Cost-wise
 
 ### The Cloud is useless if you ain't got no players.
 
-> Caveat: If you're experimenting on cloud technologies and you're looking to see how it can help you, go on! You're doing good!
+Caveat: If you're experimenting on cloud technologies and you're looking to see how it can help you, go on! You're doing good!
 
-> But nevertheless, 
+But nevertheless, 
 
 ---
 
 ## Cloud Myths Busted
 
-### Myth # 1: *Using The Cloud IS EXPENSIVE*
+### Myth # 1: Using The Cloud IS EXPENSIVE
 
-> No, because if you weigh the advantages and the plethora of features you get from using the cloud, compared to using Bare-Metal / VPS / Dedicated Servers setups, you'll realize you're actually winning. High scalability, networking & dns-level configurability, multiple regions available for your deployments, database & cache services right at your fingertips, and hell a bunch more.. - beat that!
+No, because if you weigh the advantages and the plethora of features you get from using the cloud, compared to using Bare-Metal / VPS / Dedicated Servers setups, you'll realize you're actually winning. High scalability, networking & dns-level configurability, multiple regions available for your deployments, database & cache services right at your fingertips, and hell a bunch more.. - beat that!
 
-> No, because in the cloud there are No Upfront Costs, and you are only charged by the minutes & the hours you consume their resources. This means you can switch them off (or de-allocate these resources) them whenever you're sleeping, or feel like it, then you can just switch them on (or re-allocate them) at any point in the future - and they will only charge you again at that moment!
+No, because in the cloud there are No Upfront Costs, and you are only charged by the minutes & the hours you consume their resources. This means you can switch them off (or de-allocate these resources) them whenever you're sleeping, or feel like it, then you can just switch them on (or re-allocate them) at any point in the future - and they will only charge you again at that moment!
 
-> No, because you can set spending limits. These cloud providers allow you to set an allotted budget on their platforms in order for you to avoid over-spending. If you set $25, $50, $150 or even $1,000 per month, they respect it and will never exceed it!
+No, because you can set spending limits. These cloud providers allow you to set an allotted budget on their platforms in order for you to avoid over-spending. If you set $25, $50, $150 or even $1,000 per month, they respect it and will never exceed it!
 
-> No, because these cloud providers even give you free damn credits & resources the moment you signed up! A year of around $300 credits from Azure, AWS & Google Cloud plus a bunch of free-tier features for you to use - you aren't out of your mind to think that you are losing, aren't ya?!
+No, because these cloud providers even give you free damn credits & resources the moment you signed up! A year of around $300 credits from Azure, AWS & Google Cloud plus a bunch of free-tier features for you to use - you aren't out of your mind to think that you are losing, aren't ya?!
 
-> TL;DR: Yes the cloud will be expensive for you if you're careless, and you don't read them manuals & documentations on how to use them in a cost-efficient manner. This series right here aims to teach you that, so calm down and let's move to the next myth.
+TL;DR: Yes the cloud will be expensive for you if you're careless, and you don't read them manuals & documentations on how to use them in a cost-efficient manner. This series right here aims to teach you that, so calm down and let's move to the next myth.
 
-### Myth # 2: *Using The Cloud IS COMPLICATED AS F\*CK*
+### Myth # 2: Using The Cloud IS COMPLICATED AS F\*CK
 
-> **No, since learning how the cloud can work for you doesn't mean you have to learn everything in the cloud.** That's the same reason on why there are guides like this, to simplify everything, to give you a concrete and concise idea of the certain things that only matters to you.
+**No, since learning how the cloud can work for you doesn't mean you have to learn everything in the cloud.** That's the same reason on why there are guides like this, to simplify everything, to give you a concrete and concise idea of the certain things that only matters to you.
 
-> TL;DR: Just focus on the things that will be useful to you, and in no way should things get complicated.
+TL;DR: Just focus on the things that will be useful to you, and in no way should things get complicated.
 
 ---
 
