@@ -10,7 +10,7 @@
 - [x] What Is The Cloud
 - [x] Cloud Myths Busted
 - [ ] What Is The Cloud For **YOU** As A Game Dev
-- [ ] Things To Consider, Before Using The Cloud
+- [ ] Things To Consider Before Using The Cloud
   - [ ] First Things First, Do You Need It?
   - [ ] Identifying Your Game Type
   - [ ] Your Programming Language
@@ -50,7 +50,7 @@ It works wonders when you're asking yourself:
 
 The Cloud isn't a be-all end-all type of thing that can solve all of your game-dev problems.
 
-- What other things can I put more effort for us to increase our following?
+- What other things can I put more effort for us to improve the gaming experience?
 - Maybe more work in GFX?
 - Maybe more work in SFX/Music?
 - Maybe more work in overall [gameplay](https://en.wikipedia.org/wiki/Gameplay), [game mechanics](https://en.wikipedia.org/wiki/Game_mechanics) & [game design](https://en.wikipedia.org/wiki/Game_design)?
@@ -88,6 +88,39 @@ TL;DR: Yes the cloud will be expensive for you if you're careless, and you don't
 **No, since learning how the cloud can work for you doesn't mean you have to learn everything in the cloud.** That's the same reason on why there are guides like this, to simplify everything, to give you a concrete and concise idea of the certain things that only matters to you.
 
 TL;DR: Just focus on the things that will be useful to you, and in no way should things get complicated.
+
+---
+
+## Things To Consider Before Using The Cloud
+
+### First Things First, Do You Need It?
+
+| Cloud Service / Feature | Description |
+| ------------- | ------------- |
+| File Storage | Host gigabytes to terabytes of files |
+|  | *Can be used for hosting patches, updates, etc.* |
+| Queues | Durable queues for large-volume cloud services |
+|  | *Ideal for scalable message-processing nodes* |
+| File Shares | Simple, distributed, cross-platform file storage |
+|  | *For sharing files between virtual machines & applications* |
+| Tables | Relational / Non-Relational database |
+|  | *Can be used for hosting your game & player data* |
+| Virtual Machines | Create Linux and Windows virtual machines in seconds |
+|  | *Server instance that can host your game's server-side code* |
+|  | Supports auto-scaling for high-availability |
+|  | Easily scales vertically (increase / decrease # of Cores, RAM & Network Bandwidth |
+|  | Easily scales horizontally (create / spin-up another server instance with the same specs) |
+| Cloud Delivery Networks | Secure, reliable content delivery with broad global reach and rich feature set |
+|  | *Ideal for global asset delivery* |
+| Virtual Networks | Isolated & highl-secure environment for your virtual machines |
+|  |  |
+
+- Managed storage, tables, queues & file services
+- Server instances / virtual machines that easily scales vertically & horizontally
+- Highly-scalable database & cache services
+- Virtual networks & managed DNS
+
+If you see learning and using the cloud resulting into an overall improvement & polishing of your game then definitely go for it!
 
 ---
 
