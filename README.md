@@ -109,25 +109,28 @@ TL;DR: Just focus on the things that will be useful to you, and in no way should
 
 ### First Things First, Do You Need It?
 
-| Cloud Service / Feature | Description |
-| ------------- | ------------- |
-| File Storage | Host gigabytes to terabytes of files |
-|  | *Can be used for hosting patches, updates, etc.* |
-| Queues | Durable queues for large-volume cloud services |
-|  | *Ideal for scalable message-processing nodes* |
-| File Shares | Simple, distributed, cross-platform file storage |
-|  | *For sharing files between virtual machines & applications* |
-| Tables | Relational / Non-Relational database |
-|  | *Can be used for hosting your game & player data* |
-| Virtual Machines | Create Linux and Windows virtual machines in seconds |
-|  | *Server instance that can host your game's server-side code* |
-|  | Supports auto-scaling for high-availability |
-|  | Easily scales vertically (increase / decrease # of Cores, RAM & Network Bandwidth |
-|  | Easily scales horizontally (create / spin-up another server instance with the same specs) |
-| Cloud Delivery Networks | Secure, reliable content delivery with broad global reach and rich feature set |
-|  | *Ideal for global asset delivery* |
-| Virtual Networks | Isolated & highl-secure environment for your virtual machines |
-|  |  |
+It's a waste of time learning its ins & outs if you initially don't need it, correct?
+
+Hereunder is an overview of mostly-used Cloud Technologies, and their use-cases.
+
+| Cloud Technology | Description | Use-Cases |
+| ------------- | ------------- | ------------- |
+| File Storage | Host gigabytes to terabytes of files | Hosting patches, updates, small & large files, etc. |
+| Queues | Durable queues for large-volume cloud services | Processing global events, messaages, etc. |
+| File Shares | Simple, distributed, cross-platform file storage | As a shared file-system |
+|  |  | Between your server instances |
+|  |  | Or w/ your on-premises workstation (ie: local Windows 10/Linux) |
+| Tables | Relational / Non-Relational database | Hosting your in-game data |
+| Virtual Machines | Create Linux and Windows virtual machines in seconds | Host your game's server-side code |
+|  |  | Host your game's static website |
+|  |  | Host your game's online platform |
+| Virtual Machine Auto-Scaling | Vertical / Horizontal scaling for High-Availability | increase / decrease # of Cores, RAM & Network Bandwidth |
+|  |  | create / spin-up another server instance with the same specs on high player traffic |
+| Cloud Delivery Networks | Secure, reliable content delivery with broad global reach | Better global file / asset delivery |
+|  |  | Speeding up your static websites & online platforms |
+| Virtual Networks | Isolated & highly-secure environment for your virtual machines | Inter-connectivity between server instances |
+
+---
 
 - Managed storage, tables, queues & file services
 - Server instances / virtual machines that easily scales vertically & horizontally
