@@ -6,8 +6,8 @@
 
 ## Table Of Contents
 - [x] What Is The Cloud
-- [ ] Cloud Myths Busted
-- [ ] What Is Cloud For **YOU** As A Game Dev
+- [x] Cloud Myths Busted
+- [ ] What Is The Cloud For **YOU** As A Game Dev
 - [ ] Things To Consider, Before Using The Cloud
   - [ ] First Things First, Do You Need It?
   - [ ] Identifying Your Game Type
@@ -26,6 +26,35 @@
 Cloud Computing is the general term used for delivering computer services over the Internet. 
 
 The basic idea is that you are renting / leasing servers, storage, and networking infrastructures from major companies like Microsoft, Amazon & Google. Hence we use the terms 'The Cloud', 'Cloud Computing', or 'Virtualized Environment', because the whole amazing fiasco allows you to utilize these resources without actually touching them. <sup>[@ Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Drafts/Understanding_Cloud_architectures), [@ Reddit](https://www.reddit.com/r/explainlikeimfive/comments/j62ec/eli5_cloud_computing_andor_the_cloud/)</sup>
+
+---
+
+## What Is The Cloud For **YOU** As A Game Dev
+
+### The Cloud is intended not only for developers; but most importantly for end-users, too.
+
+> As a Game Developer, the best solutions come out when you're putting your end-users first - end-users which are your players. It works wonders when you're asking yourself:
+
+- Which of these things can help me reduce the lag and/or the latency?
+- Which of these things can help me provide players in another continent a better gaming experience?
+- Which of these things can help me in handling large amount of player data?
+- Finally, which of these things can help me in implementing all of these things without breaking the bank?
+
+### The Cloud is just another tool, in your set of tools.
+
+> The Cloud isn't a be-all end-all type of thing that can solve all of your game-dev problems.
+
+### The Cloud is meant to save you headaches.
+
+Cost-wise 
+
+### The Cloud is useless if you ain't got no players.
+
+> Caveat: If you're experimenting on cloud technologies and you're looking to see how it can help you, go on! You're doing good!
+
+> But nevertheless, 
+
+---
 
 ## Cloud Myths Busted
 
@@ -46,6 +75,8 @@ The basic idea is that you are renting / leasing servers, storage, and networkin
 > **No, since learning how the cloud can work for you doesn't mean you have to learn everything in the cloud.** That's the same reason on why there are guides like this, to simplify everything, to give you a concrete and concise idea of the certain things that only matters to you.
 
 > TL;DR: Just focus on the things that will be useful to you, and in no way should things get complicated.
+
+--
 
 ## Summary
 
