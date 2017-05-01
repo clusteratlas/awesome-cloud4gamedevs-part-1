@@ -146,11 +146,34 @@ Hereunder is an overview of mostly-used Cloud Technologies, and their use-cases.
 | **Load Balancers** | Delivery of high availability & network performance. | Distributing massive player traffic into multiple server instances |
 |  |  | Automatic failover to healthy instances, in-case of a server instance failure |
 
-If you see any of these technologies working in your favour, then yes! Learning the cloud will definitely be helpful for you!
+If you see any of these technologies working in your favour, then yes you need the cloud! And yes, proceeding with this series will definitely be helpful for you!
 
-### Identifying Your Game Type
+### Your Game Type
+
+Your cloud needs will absolutely vary by the type of your game:
+
+- **Turn-based**, like card-games & board-games
+- **Slow-action**, like casual action games
+- **Real-time**, like racing, action-rpg's, & shooters
+- **Fast-action**, which are demanding real-time games
+
+Now look, try to answer the following questions:
+
+- How much do you think will be your monthly active players?
+  - *1,000? 5,000? 50,000? 100,000?, 500,000?*
+- How many concurrent players do you see to serve at a time?
+  - *100? 500? 5,000? 10,000? 50,000?*
+- How often do you send & receive packets with each player?
+  - *10-50x / minute? 10x / second? 30x / second? 60x / second?*
+- How much bandwidth per-second per-player should you handle?
+  - *50 B/s? 500B/s? 1KB/s? 10KB/s?*
+- Which things should ideally be sent w/ TCP or UDP?
+  - *All sensitive data across TCP?*
+  - *All realtime / time-sensitive data across UDP?*
 
 ### Your Programming Language
+
+
 
 ### Your Target Platforms
 
