@@ -71,9 +71,7 @@ Below is a bird's eyeview on how Regular Hosting Providers & Modern Cloud Provid
 | Plethora of features & configurability | ✔ | ✔✔✔ |
 | Competitive sales & technical support | ✔ | ✔✔✔ |
 
----
-
-The basic idea is that you are renting / leasing servers, storage, and networking infrastructures from major companies like Microsoft, Amazon & Google. Hence we use the terms 'The Cloud', or 'Cloud Computing' because you get to utilize these highly-available resources without actually touching them (or more accurately: managing them hands-on). <sup>[Explained @ Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Drafts/Understanding_Cloud_architectures), [Explained @ Reddit](https://www.reddit.com/r/explainlikeimfive/comments/j62ec/eli5_cloud_computing_andor_the_cloud/)</sup>
+Now if it seems convincing enough for you, we should better focus now on how Cloud Computing can help you as a Game Developer.
 
 ---
 
