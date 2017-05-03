@@ -94,9 +94,9 @@ And luckily, Cloud Providers like Microsoft Azure, Amazon Web Services (AWS) & G
 
 ### It's intended initially for developers; but most importantly for end-users, too.
 
-It is granted. Modern cloud technologies are designed to speed-up & take away the hassles in our development & deployment processes. As a Game Developer however, the best solutions that garner the best results when you're putting your end-users first, which are your players.
+It is granted. Modern cloud technologies are designed to speed-up & take away the hassles in our development & deployment processes. As a Game Developer however, the best solutions (that garner the best results) come out when you're putting your end-users first, which are your players.
 
-It works wonders when you're approaching these Cloud Technologies while asking yourself:
+It works wonders when we're approaching these Cloud Technologies while asking ourselves the following:
 
 - Which of these things can help me reduce the lag and/or the latency?
 - Which of these things can help me provide players in another continent a better gaming experience?
@@ -121,7 +121,7 @@ You should never lose sight of all these front-end part of things while you work
 
 ### Finally, it's useless if you ain't got no players.
 
-You can say that it's like a *which-comes-first-chicken-or-egg* scenario.
+You can say that it's like a [*zero-sum*](https://www.merriam-webster.com/dictionary/zero-sum) scenario.
 
 - A game that is not well-thought and just overall sucks will still suck, even if you plug-in cloud technologies with it.
 - A game that is well-thought,  almost-works and looks-promising however might be turned into the greatest when mixed with cloud technologies.
