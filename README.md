@@ -36,6 +36,7 @@ They can vary from:
 - Virtual Machines (w/ varying # of CPU cores, amount of RAM & disk types), which enables running of linux / windows servers online
 - Data Storage Services, which allows storage of massive amounts of data
 - Network Infrastructures, which makes virtualized networking painless & effortless
+- Database & Cache Services, for your data-centric needs
 - And so much more!
 
 Now, when you need these resources for say, a website or a game server, instead of using a single machine, you just lease them instead from a Cloud Provider.
