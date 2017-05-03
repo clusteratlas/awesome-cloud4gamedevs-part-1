@@ -79,7 +79,7 @@ Now if it seems convincing enough for you, we should better focus now on how Clo
 ## What Is It For **YOU** As A Game Developer
 
 <p align="center">
-  <img src="http://i.imgur.com/eqi2R4C.jpg" alt="img">
+  <img src="http://i.imgur.com/GymOzpJ.jpg" width="320" alt="img">
 </p>
 
 ### It's meant to work with you.
@@ -133,7 +133,7 @@ Caveat: If you're experimenting on cloud technologies and you're looking to see 
 ## Cloud Myths Busted
 
 <p align="center">
-  <img src="http://i.imgur.com/Yx2HUHu.jpg" alt="img">
+  <img src="http://i.imgur.com/g3Al7jl.jpg" width="320" alt="img">
 </p>
 
 ### Myth # 1: Using The Cloud IS EXPENSIVE
@@ -159,7 +159,7 @@ TL;DR: Just focus on the things that will be useful to you, and in no way should
 ## Things To Consider Before Using The Cloud
 
 <p align="center">
-  <img src="http://i.imgur.com/DOKONXy.jpg" alt="img">
+  <img src="http://i.imgur.com/ys1uFGv.jpg" width="320" alt="img">
 </p>
 
 ### First Things First, Do You Need It?
