@@ -86,8 +86,8 @@ Now if it seems convincing enough for you, we should better focus now on how Clo
 
 As a Game Developer, you want the Cloud to initially work in your favour first:
 
-- It should provide you more cost-efficiency when it comes to consuming resources.
-- It should provide you ease & comfort in your development & deployment processes.
+- It should provide you more cost-efficient options when it comes to consuming resources.
+- It should provide you ease, comfort & massive improvements in your development & deployment processes.
 - It should save you from a lot of infrastructure-related headaches, allowing you to focus more on your game rather than building & configuring infrastructures.
 
 And luckily, Cloud Providers like Microsoft Azure, Amazon Web Services (AWS) & Google Cloud Platform (GCP) are committed to that.
