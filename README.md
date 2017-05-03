@@ -30,6 +30,7 @@
 Cloud computing means you have a "pool" of computing resources (like memory, processor power & data storage) somewhere, served by tons of real-life computers.
 
 The basic idea is in this day and age, we now have these "Cloud Providers" - which are mostly BIG companies with massive resources - that now allow us to rent / lease computing resources on-demand.
+
 They can vary from:
 
 - Virtual Machines (w/ varying # of CPU cores, amount of RAM & disk types), which enables running of linux / windows servers online
