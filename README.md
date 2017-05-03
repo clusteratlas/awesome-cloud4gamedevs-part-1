@@ -27,7 +27,23 @@
   <img src="http://i.imgur.com/iZ5Yg99.jpg" alt="img">
 </p>
 
-Cloud Computing is the general term used for delivering computer services over the Internet. 
+- Cloud computing means you have a "pool" of computing resources (like memory, processor power & data storage) somewhere, served by tons of real-life computers.
+- The basic idea is in this day and age, we now have these "Cloud Providers" - which are mostly BIG companies with massive resources - thaw now allow us to rent / lease computing resources on-demand.
+- They can vary from:
+  - Virtual Machines (w/ varying # of CPU cores, amount of RAM & disk types), which enables running of linux / windows servers online
+  - Data Storage Services, which allows storage of massive amounts of data
+  - Network Infrastructures, which makes virtualized networking painless & effortless
+  - And so much more!
+- Now, when you need these resources for say, a website or a game server, instead of using a single machine, you just lease them instead from a Cloud Provider. This method has the advantage of being scalable, meaning, it doesn't matter if you want 1GB of RAM or 128GB of RAM, you can just take it from the pool, instead of configuring a single computer to do the job.
+- They serve these resources to us from their **data centers**, which are large facilities of highly-optimized and highly-organized computers, network & storage systems. These data centers are designed & engineered by experts such that practices like use of cooling systems & power-consumption management allow them to serve these services to us at low competitive rates, while still being highly-performant & having minimal downtime.
+- Each Cloud Provider have their own data centers in various regions around the globe.
+  - [Microsoft Azure](https://azure.microsoft.com/en-us/regions/) is currently generally available in 34 regions around the world, with plans announced for 4 additional regions. 
+  - [Amazon Web Services / AWS Cloud](https://aws.amazon.com/about-aws/global-infrastructure/) on the other hand operates 42 Availability Zones within 16 geographic Regions around the world, with announced plans for eight more Availability Zones and three more Regions.
+  - [Google Cloud Platform / GCP](https://cloud.google.com/about/locations/) has 7 regions, 20 zones, over 100 points of presence, and a well-provisioned global network comprised of hundreds of thousands of miles of fiber optic cable.
+- References
+  - [SCAtomika @ Reddit](https://www.reddit.com/r/explainlikeimfive/comments/j2r46/cloud_computing_explain_it_like_im_five/c28nl84/)
+
+---
 
 The basic idea is that you are renting / leasing servers, storage, and networking infrastructures from major companies like Microsoft, Amazon & Google. Hence we use the terms 'The Cloud', or 'Cloud Computing' because you get to utilize these highly-available resources without actually touching them (or more accurately: managing them hands-on). <sup>[Explained @ Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Drafts/Understanding_Cloud_architectures), [Explained @ Reddit](https://www.reddit.com/r/explainlikeimfive/comments/j62ec/eli5_cloud_computing_andor_the_cloud/)</sup>
 
