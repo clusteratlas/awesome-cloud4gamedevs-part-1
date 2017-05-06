@@ -55,11 +55,11 @@ References:
 
   - [SCAtomika @ Reddit](https://www.reddit.com/r/explainlikeimfive/comments/j2r46/cloud_computing_explain_it_like_im_five/c28nl84/)
 
-## How is it compare to Regular Hosting Providers?
+## How is it compare to Traditional Hosting Providers?
 
 Below is a bird's eyeview on how Regular Hosting Providers & Modern Cloud Providers greatly differentiate when compared with each other:
 
-| ~ | Regular Hosting Providers | Cloud Providers |
+| ~ | Traditional Hosting Providers | Cloud Providers |
 | :-------------: | :-------------: | :-------------: |
 | EXAMPLES | Namecheap, GoDaddy, Hostgator, Etc. | Azure, AWS, GCP, etc. |
 | Charged monthly, pay-before-you-use | ✔ | ✘ |
